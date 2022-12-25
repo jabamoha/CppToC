@@ -1,6 +1,4 @@
-//
-// Created by kasim on 10/26/2020.
-//
+
 
 #ifndef PHOLOPROJ_C_POLYMOR_DEFS_H
 #define PHOLOPROJ_C_POLYMOR_DEFS_H

@@ -1,7 +1,6 @@
 #include <stdbool.h>
 #include <stdio.h>
 
-/*/// Box ///////////*/
 
 typedef struct {
     double length;
